@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CriminalMind</string>
+    <string name="crime_title_hint">Nadaj tytuł</string>
+    <string name="crime_title_label">Tytuł</string>
+    <string name="crime_details_label">Szczegóły</string>
+    <string name="crime_solved_label">Rozwiązana</string>
+    <string name="date_picker_title">Data przestępstwa</string>
+    <string name="new_crime">Nowe przestępstwo</string>
+    <string name="show_subtitle">Pokaż</string>
+    <string name="hide_subtitle">Ukryj</string>
+    <string name="delete_crime">Usun</string>
+    <plurals name="subtitle_plural">
+        <item quantity="one">%1$d Przestępstwo</item>
+        <item quantity="other">%1$d Przestępstwa</item>
+    </plurals>
+    <string name="crime_suspect_text">Wybierz podejrzanego</string>
+    <string name="crime_report_text">Wyślij raport</string>
+    <string name="crime_report">%1$s! Przestępstwo zostało wykryte %2$s. %3$s, and %4$s</string>
+    <string name="crime_report_solved">Sprawa rozwiązana</string>
+    <string name="crime_report_unsolved">Sprawa nierozwiązana</string>
+    <string name="crime_report_no_suspect">Brak podejrzanych</string>
+    <string name="crime_report_suspect">Podejrzany jest %s</string>
+    <string name="crime_report_subject">Raport</string>
+    <string name="send_report">Wyślij raport przez</string>
+
+
+</resources>
